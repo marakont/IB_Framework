@@ -1,0 +1,7 @@
+"","V1","Application","Strain","Insecticide","Dose","Intensity","Subjects","Responded","Mortality_perc","Mortality_sim_perc"
+"1",50,"Tarsal","Kisumu","Permethrin",2e-06,2.66e-06,31,0,0,3.70153763690034
+"2",51,"Tarsal","Kisumu","Permethrin",6e-06,7.98e-06,31,2,6.451612903,7.61629560910471
+"3",52,"Tarsal","Kisumu","Permethrin",1.85e-05,2.4605e-05,24,5,20.83333333,21.2810050581785
+"4",53,"Tarsal","Kisumu","Permethrin",5.5e-05,7.315e-05,37,23,62.16216216,56.0430481205513
+"5",54,"Tarsal","Kisumu","Permethrin",0.00016,0.0002128,39,35,89.74358974,92.1355219011304
+"6",55,"Tarsal","Kisumu","Permethrin",5e-04,0.000665,34,34,100,99.8979650975318

@@ -1,0 +1,9 @@
+"","V1","Application","Strain","Insecticide","Dose","Intensity","Subjects","Responded","Mortality_perc","Mortality_sim_perc"
+"1",56,"Tarsal","Tiassale-13","Permethrin",2.6e-05,3.458e-05,29,1,3.448275862,4.24102409215919
+"2",57,"Tarsal","Tiassale-13","Permethrin",0.000128,0.00017024,29,1,3.448275862,5.91602444581583
+"3",58,"Tarsal","Tiassale-13","Permethrin",0.00064,0.0008512,28,4,14.28571429,13.1540406083043
+"4",59,"Tarsal","Tiassale-13","Permethrin",0.0032,0.004256,31,14,45.16129032,44.784373748356
+"5",60,"Tarsal","Tiassale-13","Permethrin",0.016,0.02128,30,28,93.33333333,93.4157940069673
+"6",61,"Tarsal","Tiassale-13","Permethrin",0.08,0.1064,30,30,100,99.9894426895396
+"7",62,"Tarsal","Tiassale-13","Permethrin",0.4,0.532,30,30,100,99.9999999103244
+"8",63,"Tarsal","Tiassale-13","Permethrin",1.97,2.6201,31,31,100,100

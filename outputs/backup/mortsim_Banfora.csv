@@ -1,0 +1,12 @@
+"","V1","Application","Strain","Insecticide","Dose","Intensity","Subjects","Responded","Mortality_perc","Mortality_sim_perc"
+"1",64,"Tarsal","Banfora","Permethrin",2e-05,2.66e-05,20,0,0,2.30318848000127
+"2",65,"Tarsal","Banfora","Permethrin",4e-05,5.32e-05,22,1,4.545454545,2.33096123951346
+"3",66,"Tarsal","Banfora","Permethrin",6e-05,7.98e-05,19,0,0,2.37367180417517
+"4",67,"Tarsal","Banfora","Permethrin",8e-05,0.0001064,41,0,0,2.42812203868038
+"5",68,"Tarsal","Banfora","Permethrin",1e-04,0.000133,18,1,5.555555556,2.48896724216154
+"6",69,"Tarsal","Banfora","Permethrin",2e-04,0.000266,19,1,5.263157895,2.93965846695302
+"7",70,"Tarsal","Banfora","Permethrin",4e-04,0.000532,21,0,0,4.49625515784206
+"8",71,"Tarsal","Banfora","Permethrin",6e-04,0.000798,22,1,4.545454545,7.35129951752233
+"9",72,"Tarsal","Banfora","Permethrin",8e-04,0.001064,21,6,28.57142857,12.3939938945692
+"10",73,"Tarsal","Banfora","Permethrin",0.001,0.00133,19,2,10.52631579,19.5698588777106
+"11",74,"Tarsal","Banfora","Permethrin",0.01,0.0133,12,12,100,99.999981859353

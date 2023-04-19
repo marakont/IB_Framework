@@ -1,0 +1,10 @@
+"","V1","Application","Strain","Insecticide","Dose","Intensity","Subjects","Responded","Mortality_perc","Mortality_sim_perc"
+"1",75,"Tarsal","FUMOZ-R","Permethrin",2e-04,0.000266,32,0,0,2.51063652664086
+"2",76,"Tarsal","FUMOZ-R","Permethrin",3e-04,0.000399,31,0,0,4.11596849488072
+"3",77,"Tarsal","FUMOZ-R","Permethrin",4e-04,0.000532,29,1,3.448275862,6.38800712393464
+"4",78,"Tarsal","FUMOZ-R","Permethrin",0.00045,0.0005985,31,0,0,7.7808863287034
+"5",79,"Tarsal","FUMOZ-R","Permethrin",5e-04,0.000665,36,6,16.66666667,9.35930867598098
+"6",80,"Tarsal","FUMOZ-R","Permethrin",0.00055,0.0007315,32,7,21.875,11.1200687069821
+"7",81,"Tarsal","FUMOZ-R","Permethrin",0.0011,0.001463,35,13,37.14285714,39.6391053042229
+"8",82,"Tarsal","FUMOZ-R","Permethrin",0.00248,0.0032984,37,34,91.89189189,93.6343403347021
+"9",83,"Tarsal","FUMOZ-R","Permethrin",0.0032,0.004256,31,31,100,98.8180883759443
